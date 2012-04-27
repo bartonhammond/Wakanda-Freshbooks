@@ -1,0 +1,10 @@
+Sample Wakanda SSJS Library to integrate with Freshbooks
+
+A test script is provided to demonstrate how to use the 
+Clients Freshbook API and perform basic CRUD operations.
+It does not address any other APIs nor List operations.
+
+Feel free to utilize the code in any way you want.
+
+I will not be doing any more work on the library.
+
